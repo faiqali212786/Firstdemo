@@ -1,3 +1,6 @@
 git init
 git commit
 git checkout dev
+
+git remote
+git blahbla
