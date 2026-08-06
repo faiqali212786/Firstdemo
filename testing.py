@@ -1,7 +1,13 @@
+"""
+testing.py
+This module demonstrates a simple hello function.
+"""
+
 def hello():
     """
-    This is
+    Returns a sample string.
     """
     return "this is my first file"
 
-print(hello())
+if __name__ == "__main__":
+    print(hello())
