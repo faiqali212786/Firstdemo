@@ -1,7 +1,7 @@
-def hello ();
-  """
-  this is
-  """
-return "this is my first file"
+def hello():
+    """
+    This is
+    """
+    return "this is my first file"
 
-hello()
+print(hello())
